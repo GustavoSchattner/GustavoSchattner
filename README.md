@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> Sobre Mim:
 💻 Sobre mim<br>Atualmente, sou Coordenador de Programação na Secretaria de Tecnologia da Informação do Município de São Mateus, onde atuo na criação e coordenação de soluções inovadoras.<br><br>Sou apaixonado por tecnologia, acessibilidade e desenvolvimento de novas tecnologias, sempre com um olhar voltado para projetos inovadores. Minha maior afinidade está no Front-End, onde posso unir criatividade e funcionalidade para entregar experiências imersivas e acessíveis.<br><br>Além do código, sou fascinado por praias 🌊, One Piece ⚓, a Lua 🌕 e pão de queijo 🌝—porque boas ideias sempre vêm acompanhadas de um bom café e um pão de queijo quentinho.
+![image](https://github.com/user-attachments/assets/0d72669e-3394-4fdf-a615-8990d8d670ae)
 
 
 ## 🌐 Onde Me Achar:
